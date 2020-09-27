@@ -1,0 +1,9 @@
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\entities\bin\Debug\netcoreapp3.1\entities.deps.json
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\entities\bin\Debug\netcoreapp3.1\entities.dll
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\entities\bin\Debug\netcoreapp3.1\entities.pdb
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\entities\obj\Debug\netcoreapp3.1\entities.csprojAssemblyReference.cache
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\entities\obj\Debug\netcoreapp3.1\entities.AssemblyInfoInputs.cache
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\entities\obj\Debug\netcoreapp3.1\entities.AssemblyInfo.cs
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\entities\obj\Debug\netcoreapp3.1\entities.csproj.CoreCompileInputs.cache
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\entities\obj\Debug\netcoreapp3.1\entities.dll
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\entities\obj\Debug\netcoreapp3.1\entities.pdb

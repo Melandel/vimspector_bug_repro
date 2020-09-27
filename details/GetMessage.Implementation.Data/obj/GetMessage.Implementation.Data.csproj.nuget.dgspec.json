@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\details\\GetMessage.Implementation.Data\\GetMessage.Implementation.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\details\\GetMessage.Implementation.Data\\GetMessage.Implementation.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\details\\GetMessage.Implementation.Data\\GetMessage.Implementation.Data.csproj",
+        "projectName": "GetMessage.Implementation.Data",
+        "projectPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\details\\GetMessage.Implementation.Data\\GetMessage.Implementation.Data.csproj",
+        "packagesPath": "C:\\Users\\tranm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\details\\GetMessage.Implementation.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tranm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\entities\\entities.csproj": {
+                "projectPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\entities\\entities.csproj"
+              },
+              "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases.implementations\\GetMessage.Implementation\\GetMessage.Implementation.csproj": {
+                "projectPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases.implementations\\GetMessage.Implementation\\GetMessage.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\entities\\entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\entities\\entities.csproj",
+        "projectName": "entities",
+        "projectPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\entities\\entities.csproj",
+        "packagesPath": "C:\\Users\\tranm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tranm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases.implementations\\GetMessage.Implementation\\GetMessage.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases.implementations\\GetMessage.Implementation\\GetMessage.Implementation.csproj",
+        "projectName": "GetMessage.Implementation",
+        "projectPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases.implementations\\GetMessage.Implementation\\GetMessage.Implementation.csproj",
+        "packagesPath": "C:\\Users\\tranm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases.implementations\\GetMessage.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tranm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\entities\\entities.csproj": {
+                "projectPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\entities\\entities.csproj"
+              },
+              "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases\\GetMessage\\GetMessage.csproj": {
+                "projectPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases\\GetMessage\\GetMessage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases\\GetMessage\\GetMessage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases\\GetMessage\\GetMessage.csproj",
+        "projectName": "GetMessage",
+        "projectPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases\\GetMessage\\GetMessage.csproj",
+        "packagesPath": "C:\\Users\\tranm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tranm\\Desktop\\projects\\clean_architecture_experimentation\\001-HelloWorld\\usecases\\GetMessage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tranm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

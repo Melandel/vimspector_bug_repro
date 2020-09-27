@@ -1,0 +1,14 @@
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\bin\Debug\netcoreapp3.1\ui.deps.json
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\bin\Debug\netcoreapp3.1\ui.dll
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\bin\Debug\netcoreapp3.1\ui.pdb
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\bin\Debug\netcoreapp3.1\GetMessage.Controller.dll
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\bin\Debug\netcoreapp3.1\GetMessage.dll
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\bin\Debug\netcoreapp3.1\GetMessage.Controller.pdb
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\bin\Debug\netcoreapp3.1\GetMessage.pdb
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\obj\Debug\netcoreapp3.1\ui.csprojAssemblyReference.cache
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\obj\Debug\netcoreapp3.1\ui.AssemblyInfoInputs.cache
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\obj\Debug\netcoreapp3.1\ui.AssemblyInfo.cs
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\obj\Debug\netcoreapp3.1\ui.csproj.CoreCompileInputs.cache
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\obj\Debug\netcoreapp3.1\ui.csproj.CopyComplete
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\obj\Debug\netcoreapp3.1\ui.dll
+C:\Users\tranm\Desktop\projects\clean_architecture_experimentation\001-HelloWorld\details\ui\obj\Debug\netcoreapp3.1\ui.pdb
